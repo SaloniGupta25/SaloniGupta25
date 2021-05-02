@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saloni Gupta</h1>
 <h3 align="center">Selflearner,Always ready to learn new things</h3>
-  <a href="https://www.linkedin.com/in/salonigupta25/">
-  <img align="left" alt="rahul-linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-</a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salonigupta25&label=Profile%20views&color=0e75b6&style=flat" alt="salonigupta25" /> </p>
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
@@ -11,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/salonigupta25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salonigupta25/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/salonigupta25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salonigupta25" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

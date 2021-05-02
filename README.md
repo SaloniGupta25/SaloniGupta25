@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
--  I’m looking internship on **Django**
+-  I’m looking for an internship on **Django**
 
 
 

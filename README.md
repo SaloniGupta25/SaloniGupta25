@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salonigupta25&label=Profile%20views&color=0e75b6&style=flat" alt="salonigupta25" /> </p>
 
-- <br>**Talking about Personal Stuffs:**</br>
+
 
 <h3> Details :::>>></h3>
 

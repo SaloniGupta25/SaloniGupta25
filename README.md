@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saloni Gupta</h1>
 <h3 align="center">Selflearner,Always ready to learn new things</h3>
+  <a href="https://www.linkedin.com/in/rahul-sharma-58b213163/">
+  <img align="left" alt="rahul-linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salonigupta25&label=Profile%20views&color=0e75b6&style=flat" alt="salonigupta25" /> </p>
 
 - 🌱 I’m currently learning **Django Rest Framework**
 

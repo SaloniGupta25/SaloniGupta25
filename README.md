@@ -5,7 +5,7 @@
 
 
 
-<h3> Details :</h3>
+<h3> About Me :</h3>
 
 - 🔭 I’m currently pursuing  **MCA**
 
